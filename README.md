@@ -71,12 +71,9 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   live.
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/), - Like ViaBackwards, just with even
   more **evil**.
-* [Retrooper](https://github.com/kennytv/list-of-shame/issues/46)
-* [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks"
   often outdated exploits and other security related issues to the public and encourages its followers to report to them
   instead of disclosing properly.
-* [kennytv](https://www.twitch.tv/kennytvn) - German streamer who has repeatedly failed to meet streaming obligations
 
 ## Software Alternatives / Info Threads
 
