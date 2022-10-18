@@ -69,6 +69,8 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
   , `try {} catch (Exception e) {}`"
 * [ViaVersion](https://github.com/ViaVersion/ViaVersion), "1.8-latest KitPVP" - Enables **the evil** to continue to
   live.
+* [Retrooper](https://github.com/kennytv/list-of-shame/issues/46)
+* [Retrooper, again](https://github.com/kennytv/list-of-shame/pull/67)
 * [ProtocolSupport](https://www.spigotmc.org/resources/protocolsupport.7201/), - Like ViaBackwards, just with even
   more **evil**.
 * [Retrooper](https://github.com/kennytv/list-of-shame/issues/46)
