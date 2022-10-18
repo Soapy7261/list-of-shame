@@ -74,6 +74,7 @@ A non-exhaustive list of projects to be known to have rather unpleasant vibes.
 * [The Duper Trooper](https://www.youtube.com/channel/UC_Nuc3040H1WjeO9aoY4NPg) - Clickbait YouTube channel that "leaks"
   often outdated exploits and other security related issues to the public and encourages its followers to report to them
   instead of disclosing properly.
+* [alexisl315](https://www.spigotmc.org/members/190298/) - Your go-to dev for laggy, inefficient skript recreations of popular plugins. Ignores any critique given in reviews and makes fake updates that only change a few lines at most.
 
 ## Software Alternatives / Info Threads
 
