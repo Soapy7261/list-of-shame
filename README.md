@@ -83,12 +83,9 @@ This section is the only part of this page you should *actually* take somewhat s
 * "Super optimized all-in-one server"
     * Info: <https://github.com/kennytv/Yaptapia> (not necessarily bound to Yatopia)
     * Alternatives:
-
-      *[Paper](https://github.com/PaperMC/Paper) Fork of spigot with performance improvements, aimed to fix gameplay and mechanics inconsistencies
-
-      *[Pufferfish](https://github.com/pufferfish-gg/Pufferfish) Fork of paper with additional performance patches, aimed at maximum performance, stability, and "enterprise" features.
-      
-      *[Purpur](https://github.com/PurpurMC/Purpur) Fork of paper and patches from Pufferfish, aimed at configurability
+      * [Paper](https://github.com/PaperMC/Paper) Fork of spigot with performance improvements, aimed to fix gameplay and mechanics inconsistencies
+      * [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) Fork of paper with additional performance patches, aimed at maximum performance, stability, and "enterprise" features.
+      * [Purpur](https://github.com/PurpurMC/Purpur) Fork of paper and patches from Pufferfish, aimed at configurability
 * "Hybrid" (Forge/something else + Bukkit) server info/alternatives: [Essentials' PSA](https://essentialsx.net/do-not-use-mohist.html).
 * Anti-lag plugin alternative setup and info: <https://www.spigotmc.org/threads/283181/>
   and <https://www.spigotmc.org/threads/283181/page-20#post-3684550>
